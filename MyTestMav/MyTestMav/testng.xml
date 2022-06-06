@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.myMav.testcases.Owner1"/>
+      <class name="com.myMav.testcases.Property1"/>
+      <class name="com.myMav.testcases.Refresh1"/>
+      <class name="com.myMav.testcases.Base"/>
+      <class name="com.myMav.testcases.Profile1"/>
+      <class name="com.myMav.testcases.Locality1"/>
+      <class name="com.myMav.testcases.Aircoo1"/>
+      <class name="com.myMav.testcases.Login1"/>
+      <class name="com.myMav.testcases.Credit1"/>
+      <class name="com.myMav.testcases.Rent1"/>
+      <class name="com.myMav.testcases.Menu1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
